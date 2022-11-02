@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Alterei no vsconde  
+=======
+Primeira alteração
+>>>>>>> ff18e5cc2c51645e186de6b0231e9ed43beb802e
